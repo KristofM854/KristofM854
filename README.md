@@ -4,9 +4,8 @@ Environmental data integrity and reproducible analysis pipelines.
 
 I work on marine environmental monitoring at the IAEA Marine Environment
 Laboratories in Monaco, on harmful algal blooms, marine biotoxins and
-microplastics. Most of what I build is tooling that makes laboratory and
-monitoring data trustworthy: proficiency test design, QA/QC workflows, and R
-applications that take instrument exports through to auditable results.
+microplastics. Shiny apps that take raw instrument exports through to a finished result, 
+and smaller automations that replace steps people would otherwise do by hand in Excel.
 
 Trained as an analytical chemist and marine biogeochemist (Dr. rer. nat., AWI /
 University of Bremen).
@@ -25,8 +24,8 @@ logistic fitting, and a full audit trail from raw plate reader output to
 reported result.
 
 **[FTIR-LDIR-Raman](https://github.com/KristofM854/FTIR-LDIR-Raman)**
-Spatial alignment and material cross-validation of microplastic particles
-detected by three microspectroscopy techniques on the same sample.
+Spatial alignment and material cross-validation of the same microplastic sample
+analysed by three spectroscopy techniques.
 
 **[Excel processor for FTIR / Raman / LDIR](https://github.com/KristofM854/Excel-processor-FTIR-Raman)**
 Turns raw per-particle instrument exports into standardised, analysis-ready
